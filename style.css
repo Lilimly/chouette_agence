@@ -684,12 +684,14 @@ p {
 {
     font-size: 1.3em;
     font-style: italic;
+    color: #575757!important;
 }
 
 #citation-auteur
 {
     font-size: 1em;
     font-style: normal;
+    color: #575757!important;
 }
 
 .h2-style
@@ -789,7 +791,7 @@ h4 {
 }
 
 .bgc-dark-slate-grey {
-    background-color: rgba(87, 87, 87, 1);
+    background-color: rgb(56, 52, 52);
 }
 
 .bgc-atomic-tangerine {
@@ -803,7 +805,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #fdbfa1!important;
 }
 
 .btn-atomic-tangerine {
