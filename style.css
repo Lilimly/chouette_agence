@@ -687,13 +687,14 @@ p {
 
 #citation-text
 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-style: italic;
 }
 
 #citation-auteur
 {
     font-size: 1em;
+    font-style: normal;
 }
 
 .h2-style
